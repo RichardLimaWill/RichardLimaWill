@@ -1,6 +1,5 @@
 ### Seja bem-vindo! Eu sou Richard Will
 
-- 💻 Hoje trabalho como estagiário na Mercedes-Benz
 - 🎓 Formação: Ensino técnico - TI (2019) e Engenharia de Computação (2024)
 - 📚 Estudando: C e Java
 - 📫 Email para contato: richard.limawill@gmail.com
