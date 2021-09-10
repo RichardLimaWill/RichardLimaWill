@@ -3,6 +3,7 @@
 - 🎓 Formação: Ensino técnico - TI (2019) e Engenharia de Computação (2024)
 - 📚 Estudando: C e Java
 - 📫 Email para contato: richard.limawill@gmail.com
+- <img height="20" width="20" src="https://img.icons8.com/color/48/000000/linkedin.png"/> Linkedin: https://www.linkedin.com/in/richardwill/
 
 ##
 
